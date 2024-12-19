@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Teclado Mecânico",
+      "description": "Teclado gamer RGB",
+      "quantity": 10,
+      "photo": "https://example.com/teclado.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mouse Sem Fio",
+      "description": "Mouse bluetooth",
+      "quantity": 5,
+      "photo": "https://example.com/mouse.jpg"
+    }
+  ]
+  
